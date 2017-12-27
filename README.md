@@ -1,3 +1,8 @@
-# My Awesome Book
+# ![](/assets/thehive-logo.png)Introduction
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+In order to summarize different TheHive-Project documentations, this GitBook was created. Thanks for everyone involved.
+
+
+
+
+
