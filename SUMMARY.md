@@ -1,12 +1,14 @@
-# TheHive Book
+# Summary
+
+## TheHive Book
 - [Introduction](README.md)
 
-# TheHive
+## TheHive
 - [Introduction](TheHive/README.md)
 
-# Cortex
+## Cortex
 - [Introduction](Cortex/README.md)
 
-# Cortex-Analyzers
+## Cortex-Analyzers
 - [Introduction](Cortex-Analyzers/README.md)
 
