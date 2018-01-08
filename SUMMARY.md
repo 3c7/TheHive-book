@@ -1,6 +1,4 @@
 # Summary
-
-## TheHive Book
 - [Introduction](README.md)
 
 ## TheHive
