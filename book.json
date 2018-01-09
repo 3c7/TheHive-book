@@ -1,0 +1,26 @@
+{
+    "title": "TheHive Book",
+    "description": "Administration and User guide of SIRP TheHive, Cortex, Cortex-Analyzers and associated tools.",
+    "language": "en",
+    "author": "TheHive-Project Contributors",
+    "plugins": ["versions", "github", "toc", "anchors", "alerts", "advanced-emoji"],
+    "links": {
+        "sidebar": {
+            "Project Website": "https://thehive-project.org",
+            "TheHive @ Github": "https://github.com/TheHive-Project/TheHive",
+            "Cortex @ Github": "https://github.com/TheHive-Project/Cortex",
+            "Analyzers @ Github": "https://github.com/TheHive-Project/Cortex-Analyzers"
+        }
+    },
+    "pluginsConfig": {
+        "versions": {
+            "type": "branches"
+        },
+        "github": {
+            "url": "https://github.com/TheHive-Project"
+        },
+        "twitter": {
+            "url": "https://twitter.com/TheHive-Project"
+        }
+    }
+}
