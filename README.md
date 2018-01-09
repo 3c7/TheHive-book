@@ -6,3 +6,8 @@ In order to merge the TheHive-Project documentation repositories, this GitBook w
 # Content
 - [TheHive](TheHive/README.md)
 - [Cortex](Cortex/README.md)
+
+# Download the book
+- [PDF](https://www.gitbook.com/download/pdf/book/3c7/thehive-book)
+- [Mobi](https://www.gitbook.com/download/mobi/book/3c7/thehive-book)
+- [ePub](https://www.gitbook.com/download/epub/book/3c7/thehive-book)

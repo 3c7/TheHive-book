@@ -1,5 +1,6 @@
 # Summary
 - [Introduction](README.md)
+- [Code of Conduct](code-of-conduct.md)
 
 ### TheHive
 - [Introduction](TheHive/README.md)
@@ -38,8 +39,6 @@
   - [Docker Guide](Cortex/installation/docker-guide.md)
   - [Binary Guide](Cortex/installation/binary-guide.md)
   - [Build Guide](Cortex/installation/build-guide.md)
-- [User Guide](Cortex/analyzer_requirements.md)
-- [Analyzer How-To](Cortex/api/how-to-create-an-analyzer.md)
 - [API Documentation](Cortex/api/README.md)
   - [List analyzers](Cortex/api/list-analyzers.md)
   - [Get an analyzer's definition](Cortex/api/get-analyzer.md)
@@ -52,7 +51,13 @@
   - [Wait and get a job report](Cortex/api/wait-and-get-job-report.md)
 
 ### Cortex-Analyzers
-- [Introduction](Cortex-Analyzers/README.md)
+- [Analyzer Userguide](Cortex-Analyzers/analyzer_requirements.md)
+  - [Free analyzers](Cortex-Analyzers/analyzer_requirements.md#free-analyzers)
+  - [Special access analyzers](Cortex-Analyzers/analyzer_requirements.md#analyzers-requiring-special-access)
+  - [Subscription analyzers](Cortex-Analyzers/analyzer_requirements.md#subscription-and-license-based-analyzers)
+- [Analyzer How-To](Cortex-Analyzers/how-to-create-an-analyzer.md)
+  - [Writing an analyzer](Cortex-Analyzers/how-to-create-an-analyzer.md#writing-an-analyzer)
+  - [Submitting an analyzer](Cortex-Analyzers/how-to-create-an-analyzer.md#submitting-an-analyzer)
 
 ### TheHive4py
 
